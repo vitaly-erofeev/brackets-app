@@ -1,0 +1,13 @@
+{
+    "name": "v.erofeev/brackets-app",
+    "description": "check brackets app",
+    "authors": [
+        {
+            "name": "Vitaly Erofeev",
+            "email": "vitaly.erofeev@gmail.com"
+        }
+    ],
+    "require": {
+    	"v.erofeev/brackets-lib":"dev-master"
+    }
+}
